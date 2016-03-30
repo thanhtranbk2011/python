@@ -1,0 +1,20 @@
+Network_and_Mask,Company,EA-city,EA-site,EA-vlan Descrip
+
+239.0.0.0/8,BE Company,Denver,Den,gwa-D -LOOPBACKS
+
+100.64.0.0/10,Test Company,Dallas,Dal,ty -LOOPBACKS
+
+10.236.0.0/14,Home,Miami,Mia,67i
+
+10.28.0.0/15,Demo,Boston,Bos,555555
+
+10.186.0.0/15,Test 01,LA,LAX,67uiii-g -LOOPBACKS
+
+10.83.48.0/21,Test 02,NYC,NYC,hui3-DATACENTER
+
+143.127.180.160/30,Test 03,Philadelphia,phl,gg
+
+192.11.65.0/23,Test 04,Washington,Was,4
+
+10.12.180.0/23,Test 05,SF,SF,zze
+
